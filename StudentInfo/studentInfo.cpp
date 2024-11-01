@@ -17,7 +17,7 @@ int main()
 
     for (int i = 1; i <= studentCount; i++)
     {
-        cout << "\n*** Enter information for Student *** " << i << " ***\n";
+        cout << "\n*** Enter information for Student *** " << i << " ******\n";
         cout << "*\n";
 
         cout << "Enter student name: ";
