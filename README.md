@@ -1,1 +1,1 @@
-# StudentInfo
+# Simple studentInfo
